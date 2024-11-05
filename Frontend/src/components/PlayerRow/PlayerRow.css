@@ -1,0 +1,8 @@
+.row {
+    outline: #fff solid 1px;
+}
+
+.pp > img { 
+    width: 70px;
+    height: 50px;
+}
